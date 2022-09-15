@@ -482,7 +482,7 @@ html {
         left: 0px;
         top: 4px;
         border-radius: 0px;
-        background: rgba(0, 0, 0, 0.5)url(/static/images/header/hero-cover.png);
+        background: rgba(0, 0, 0, 0.5)url(../images/header/hero-cover.png);
         background-blend-mode: darken;
         object-fit: cover;
     }
@@ -1478,7 +1478,7 @@ html {
     .col-md-2 img {
         width: 414.5px;
         height: 169.1px;
-        content: url(/static/images/contacts/world\ image.png);
+        content: url(../images/contacts/world\ image.png);
     }
 
     .contacts-row-2 {
@@ -2433,7 +2433,7 @@ html {
         right: 2px;
         top: 0px;
         border-radius: 0px;
-        background: rgba(0, 0, 0, 0.5)url(/static/images/header/hero-cover-responsive.png);
+        background: rgba(0, 0, 0, 0.5)url(../images/header/hero-cover-responsive.png);
         background-blend-mode: darken;
         object-fit: fill;
         background-position: center;
@@ -3476,7 +3476,7 @@ html {
     .col-md-2 img {
         width: 313px;
         height: 169px;
-        content: url(/static/images/contacts/world\ image.png);
+        content: url(../images/contacts/world\ image.png);
     }
 
     .contacts-row-2 {
